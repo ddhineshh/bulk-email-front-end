@@ -19,7 +19,7 @@ const Home = () => {
             
             <img src='https://img.freepik.com/free-photo/happy-young-asia-businessmen-businesswomen-meeting-brainstorming-ideas-about-new-paperwork-project-colleagues-working-together-planning-success-strategy-enjoy-teamwork-small-modern-office_7861-2535.jpg?w=826&t=st=1675566846~exp=1675567446~hmac=ce4f87c25cf8c902afd374d1195c6de52d09dd68220876c2293e52272cf13157' alt="Our Team" className="team-image h-100" />
             <p>
-              Welcome to our <span className="highlight">CheGo School </span>
+              Welcome to our <span className="highlight">SLV School </span>
               website, where we aim to inspire and
               help plan your next adventure. We believe in the power of
               travel to create meaningful connections and provide a unique
